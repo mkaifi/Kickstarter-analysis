@@ -1,6 +1,6 @@
 # Kickstarter_challenge
  ## Overview of Project
- The purpose of this project was to better understand why Louis's play was able to generate more money in a shorter amount of time compare to other plays in relation to their launch dates and funding goals. 
+ The purpose of this project was to better understand why Louis's play was able to generate more money in a shorter amount of time compared to other plays in relation to their launch dates and funding goals. 
 ### Purpose
  In order to visualize this, we will need to analyze the campaign outcomes based on their lunch dates and funding goals and will be broken down in 2 parts. For the first part, we will use our knowledge of pivot tables and graphings to visualize the campaign outcomes. For the second part, we will need to visualize the outcomes based on goals and we do this using percentages. 
 ## Analysis and Challenges
@@ -18,6 +18,7 @@ For the second part of the assignment, I added the appropriate column headings t
     - 2) The "theaters" category had the lowest engagement in the month of December. 
 
 - What can you conclude about the Outcomes based on Goals?
+   1) Although I do not agree with the data as I believe there to be a discrepany, I will still conclude that the percentage of cancelled is significantly lower than percentage successful and percentage failed. 
 
 - What are some limitations of this dataset?
     -As with any dataset, I believe that the biggest limitation is that there may be discripencies in the data itself. I used the correct formulas but was still not pulling in the correct data. 
